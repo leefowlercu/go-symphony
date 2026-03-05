@@ -4,7 +4,7 @@
 
 **Project Tagline**: A Go orchestration service for running Codex agent sessions against Linear issue queues.
 
-**Current Version**: N/A
+**Current Version**: v0.1.0
 
 ## Table of Contents
 
