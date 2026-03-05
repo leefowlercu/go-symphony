@@ -1,0 +1,4 @@
+{"id":1,"result":{"serverInfo":{"name":"codex","version":"0.0"}}}
+{"id":2,"result":{"thread":{"id":"thread-1"}}}
+{"id":3,"result":{"turn":{"id":"turn-1"}}}
+{"method":"turn/completed","params":{}}
